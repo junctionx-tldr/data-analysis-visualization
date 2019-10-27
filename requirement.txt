@@ -1,0 +1,5 @@
+json
+plotly
+pandas
+numpy
+requests
